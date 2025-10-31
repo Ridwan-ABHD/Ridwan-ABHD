@@ -27,6 +27,7 @@ Actuellement en Bachelor Informatique à Sup de Vinci Rennes, je suis détermin�
 <br/>
 ### 📊 Mes Statistiques GitHub | My GitHub Stats
 
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridwan2006&show_icons=true&theme=dark&icon_color=79ff97&text_color=fff&title_color=79ff97" alt="Statistiques GitHub de Ridwan" />
   
