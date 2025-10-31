@@ -34,9 +34,6 @@ Actuellement en Bachelor Informatique à Sup de Vinci Rennes, je suis détermin�
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwan2006&layout=compact&theme=dark&title_color=79ff97&text_color=fff" alt="Langages les plus utilisés par Ridwan" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ridwan2006&theme=dark&fire=79ff97&ring=79ff97&currStreakNum=fff&sideNums=fff&sideLabels=fff&dates=fff" alt="GitHub Streak de Ridwan" />
-</p>
 
 <br/>
 
