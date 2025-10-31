@@ -1,8 +1,8 @@
 ## Bonjour, je suis Ridwan ! 👋 | Hi, I am Ridwan! 👋
 
-Bienvenue sur mon profil ! Je suis étudiant en Bachelor (Data & Développement) à Sup de Vinci. Je suis passionné par la manière dont la technologie peut transformer les données en solutions.
+Actuellement en Bachelor Informatique à Sup de Vinci Rennes, je suis déterminé à faire de la Data mon cœur de métier.
 
-*Welcome to my profile! I am a "Data & Development" Bachelor's student at Sup de Vinci. I am passionate about how technology can transform data into solutions.*
+*Currently a Computer Science Bachelor's student at Sup de Vinci Rennes, I am determined to make Data my core profession.*
 
 <br/>
 
