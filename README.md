@@ -28,15 +28,6 @@ Je suis en recherche active d'une alternance dans le domaine de la Data (Data An
 
 <br/>
 
-### 📊 Mes Statistiques GitHub | My GitHub Stats
-<br/>
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Ridwan-ABHD&theme=dark&fire=79ff97&ring=79ff97&currStreakNum=fff&sideNums=fff&sideLabels=fff&dates=fff" alt="GitHub Streak de Ridwan" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan-ABHD&layout=compact&theme=dark&title_color=79ff97&text_color=fff" alt="Langages les plus utilisés par Ridwan" />
-</p>
-
-<br/>
-
 ### 📫 Me contacter | Contact me
 <br/>
 N'hésitez pas à me contacter si mon profil vous intéresse ou si vous souhaitez collaborer sur un projet !
@@ -51,4 +42,12 @@ N'hésitez pas à me contacter si mon profil vous intéresse ou si vous souhaite
   <a href="https://www.linkedin.com/in/ridwan-abdoulkader-houmed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
+</p>
+
+<br/>
+
+### 📊 Mes Statistiques GitHub | My GitHub Stats
+<br/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan-ABHD&layout=compact&theme=dark&title_color=79ff97&text_color=fff" alt="Langages les plus utilisés par Ridwan" />
 </p>
