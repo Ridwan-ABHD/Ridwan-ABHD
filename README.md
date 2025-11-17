@@ -8,8 +8,8 @@ Actuellement en Bachelor Informatique à Sup de Vinci Rennes, je suis détermin�
 
 ### 🎯 Mon Objectif | My Goal
 <br/>
-* Je suis en recherche active d'une **alternance dans le domaine de la Data** (Data Analyst, Data Engineer...) à partir de **Mai 2026**.
-* Contact : [ridwan.abhd@gmail.com](mailto:ridwan.abhd@gmail.com)
+Je suis en recherche active d'une alternance dans le domaine de la Data (Data Analyst, Data Engineer...) à partir de **Mai 2026**.
+Contact : [ridwan.abhd@gmail.com](mailto:ridwan.abhd@gmail.com)
 
 <br/>
 
