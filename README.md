@@ -10,8 +10,6 @@ Actuellement en Bachelor Informatique à Sup de Vinci Rennes, je suis détermin�
 <br/>
 Je suis en recherche active d'une alternance dans le domaine de la Data (Data Analyst, Data Engineer...) à partir de Mai 2026.
 
-Contact : [ridwan.abhd@gmail.com](mailto:ridwan.abhd@gmail.com)
-
 <br/>
 
 ### 💻 Technologies & Outils | Technologies & Tools
@@ -33,7 +31,7 @@ Contact : [ridwan.abhd@gmail.com](mailto:ridwan.abhd@gmail.com)
 ### 📊 Mes Statistiques GitHub | My GitHub Stats
 <br/>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ridwan-ABHD&show_icons=true&theme=dark&icon_color=79ff97&text_color=fff&title_color=79ff97" alt="Statistiques GitHub de Ridwan" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Ridwan-ABHD&theme=dark&fire=79ff97&ring=79ff97&currStreakNum=fff&sideNums=fff&sideLabels=fff&dates=fff" alt="GitHub Streak de Ridwan" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan-ABHD&layout=compact&theme=dark&title_color=79ff97&text_color=fff" alt="Langages les plus utilisés par Ridwan" />
 </p>
 
@@ -45,7 +43,11 @@ N'hésitez pas à me contacter si mon profil vous intéresse ou si vous souhaite
 
 *Feel free to contact me if you are interested in my profile or if you want to collaborate on a project!*
 
-<br/> <p align="left">
+<br/> 
+<p align="left">
+  <a href="mailto:ridwan.abhd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
   <a href="https://www.linkedin.com/in/ridwan-abdoulkader-houmed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
