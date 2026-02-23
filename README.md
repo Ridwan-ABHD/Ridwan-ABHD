@@ -46,9 +46,3 @@ N'hésitez pas à me contacter si mon profil vous intéresse ou si vous souhaite
 </p>
 
 <br/>
-
-### 📊 Mes Statistiques GitHub | My GitHub Stats
-<br/>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan-ABHD&layout=compact&theme=dark&title_color=79ff97&text_color=fff" alt="Langages les plus utilisés par Ridwan" />
-</p>
